@@ -1,0 +1,67 @@
+{
+  "accepted": [
+    [
+      {
+        "aaid": [
+          "006F#0001"
+        ]
+      }
+    ],
+    [
+      {
+        "aaid": [
+          "006F#0002"
+        ]
+      }
+    ],
+    [
+      {
+        "userVerification": 2,
+        "authenticationAlgorithms": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "assertionSchemes": [
+          "UAFV1TLV"
+        ]
+      }
+    ],
+    [
+      {
+        "userVerification": 4,
+        "authenticationAlgorithms": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "assertionSchemes": [
+          "UAFV1TLV"
+        ]
+      }
+    ],
+    [
+      {
+        "userVerification": 10,
+        "authenticationAlgorithms": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "assertionSchemes": [
+          "UAFV1TLV"
+        ]
+      }
+    ]
+  ],
+  "disallowed": [
+    {
+      "aaid": [
+        "FFFF#FFFF"
+      ]
+    }
+  ]
+}

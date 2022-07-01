@@ -1,0 +1,67 @@
+[{
+        "version": {
+            "major": 1,
+            "minor": 0
+        },
+        "ids": [
+            "android:apk-key-hash:9w0tqZ4/D+9kv8XjcZjoWU/umCY",
+            "android:apk-key-hash:9vy62sonP/ObQ/mNE1jQLDzDOqs",
+            "android:apk-key-hash:K8QgD55FAYSVKOCQ6gk3sZpqhtQ",
+            "android:apk-key-hash:K8QgD55FAYSVKOCQ6gk3sZpqhtQ=",
+            "android:apk-key-hash:upyXG0Q9TvkMcgC5XgSAp6Ic5rg=",
+			"android:apk-key-hash:qh4/rc2ekZ10t/oeSgqrEdQm6lQ=",
+			"android:apk-key-hash:mx1GTAkJnTFGh9EOlrawOWjdJkA",
+			"android:apk-key-hash:6H9xSbuyRGP/B4V6xEip/y360ZE",
+            "ios:bundle-id:th.or.etda.digitalauthen",
+            "ios:bundle-id:th.or.etda.uaf-client",
+            "ios:bundle-id:th.or.etda.uaf-client1",
+            "ios:bundle-id:th.or.etda.uaf-client2",
+            "ios:bundle-id:th.or.etda.uaf-client9",
+            "https://uaf.eronica.io/uaf",
+            "https://uaf.eronica.io/uaf/",
+            "https://dfbb54a5f953.ngrok.io/uaf",
+            "https://uaf.plapp.me/uaf",
+            "http://127.0.0.1:8888/uaf",
+            "http://127.0.0.1:8080/uaf",
+            "http://uaf.teda.th:8080/uaf",
+            "http://uaf.teda.th:8080/uaf",
+            "http://api-uat-k8s-01.teda.th:30080/uaf",
+            "http://api-uat-k8s-02.teda.th:30080/uaf",
+            "http://api-uat-k8s-03.teda.th:30080/uaf",
+            "https://api-uat.teda.th/uaf",
+            "https://api-uat.teda.th"
+        ]
+    },
+    {
+        "version": {
+            "major": 1,
+            "minor": 1
+        },
+        "ids": [
+            "android:apk-key-hash:upyXG0Q9TvkMcgC5XgSAp6Ic5rg",
+            "android:apk-key-hash:9vy62sonP/ObQ/mNE1jQLDzDOqs",
+            "android:apk-key-hash:K8QgD55FAYSVKOCQ6gk3sZpqhtQ",
+            "android:apk-key-hash:K8QgD55FAYSVKOCQ6gk3sZpqhtQ=",
+            "android:apk-key-hash:upyXG0Q9TvkMcgC5XgSAp6Ic5rg=",
+			"android:apk-key-hash:qh4/rc2ekZ10t/oeSgqrEdQm6lQ=",
+			"android:apk-key-hash:mx1GTAkJnTFGh9EOlrawOWjdJkA",
+			"android:apk-key-hash:6H9xSbuyRGP/B4V6xEip/y360ZE",
+            "ios:bundle-id:th.or.etda.digitalauthen",
+            "ios:bundle-id:th.or.etda.uaf-client",
+            "ios:bundle-id:th.or.etda.uaf-client1",
+            "ios:bundle-id:th.or.etda.uaf-client2",
+            "ios:bundle-id:th.or.etda.uaf-client9",
+            "https://uaf.eronica.io/uaf",
+            "https://uaf.eronica.io/uaf/",
+            "http://127.0.0.1:8888/uaf",
+            "http://127.0.0.1:8080/uaf",
+            "https://uaf.plapp.me/uaf",
+            "http://uaf.teda.th:8080/uaf",
+            "http://api-uat-k8s-01.teda.th:30080/uaf",
+            "http://api-uat-k8s-02.teda.th:30080/uaf",
+            "http://api-uat-k8s-03.teda.th:30080/uaf",
+            "https://api-uat.teda.th/uaf",
+            "https://api-uat.teda.th"
+        ]
+    }
+]

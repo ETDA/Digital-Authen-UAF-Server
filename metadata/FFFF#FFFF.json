@@ -1,0 +1,37 @@
+{
+    "aaid": "FFFF#FFFF",
+    "attestationRootCertificates": ["MIIB7DCCAZKgAwIBAgIBBDAKBggqhkjOPQQDAjBwMQswCQYDVQQGEwJOWjEjMCEGA1UEAwwaRklETyBDb25mb3JtYWNlIFRlc3QgVG9vbHMxFjAUBgNVBAoMDUZJRE8gQWxsaWFuY2UxJDAiBgNVBAsMG0NlcnRpZmljYXRpb24gV29ya2luZyBHcm91cDAeFw0xNzAyMjkxNDMxMTJaFw0yMjAyMjgxNDMxMTJaMHAxCzAJBgNVBAYTAk5aMSMwIQYDVQQDDBpGSURPIENvbmZvcm1hY2UgVGVzdCBUb29sczEWMBQGA1UECgwNRklETyBBbGxpYW5jZTEkMCIGA1UECwwbQ2VydGlmaWNhdGlvbiBXb3JraW5nIEdyb3VwMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZaRKB92Abz8nqEZFf8Xz84ajfA7lLjt4O+i2wq1FnD/svIyTyEYm/QbOYJC0GUVE+L6V7OiD8K9Z4PfiBFRO+qMdMBswDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMCBsAwCgYIKoZIzj0EAwIDSAAwRQIgWDy1Oxu8PT6diGXycY0rxb1e16omexfQ+Iv9KOg5p9cCIQCFPPCArmDh3+EyxI/OaZFPvW2kG2hQBmi9PnC+bBrfYQ=="],
+    "description": "ETDA Mobile UAF Client",
+    "authenticatorVersion": 1,
+    "userVerificationDetails": [
+        [
+            {
+                "userVerification": 4
+            }
+        ],
+        [
+            {
+                "userVerification": 2
+            }
+        ]
+    ],
+    "attachmentHint": 1,
+    "keyProtection": 1,
+    "matcherProtection": 1,
+    "tcDisplay": 1,
+    "tcDisplayContentType": "text/plain",
+    "isSecondFactorOnly": false,
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAApCAYAAABDV7v1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAMjSURBVFhHzZjPSzJBGMcf+6GpQQaWHSKkQ9olobqIQXXxGnToFPgHlHTMk4fugSCGB/8Dr97Sq5CnCrrYIYIulUihZajku8/4uGLuqju7I+8HHvd5dmd2vj4zszuzpu/v7xYYjMVigYmJCeZnMhm4ubmB5+dn+Pj8BJvVBqurq7C9vQWHh4esDFKr/Ui/A6S0BPDy8tLa29vDVofa1uZm6/b2lmqqY7jQg4MDRUHDzO/30x2UMeGPVFA3jUYDzGYzRfy8vr7C4uIiRV0MEYq36IxJI3h/fwen00lRG0OEokgDbtPD3/vpTkMoFNIsEmd7Pp+H+/t7iEajdLYXaTKSR2BGealWq6hQk11dXVHtLlJXK5YtFotUQsoEHbk4Pj5WbEDNlpaWqGY/4XC4r/zu7i5d1Sn0742HGYpRI5vNKtbpwD1GHx4eyBudUqlEXj+VSoW8XnK5XNshwZpJJpOKGRhmavh8PsXyFxcX7Dp3Rp+ensjTxtraGnldTk9P4e7ujqJeOu1wC5X+JHnaeHx8BJPJBMFgEI6OjpifSCToaj/lcpkduYU6HA7y+Li+voZ0Ok2ROnNzc+zILdTj8ZAnFq/X23bYSOWA1rHCrVAosPZ0vetxfImmI4+76+12O3niwHVEB66Mokip6ykSR7PZhMnJSeZrzui4REYiEVkkAzM6KlarVR7kIm1lZYVa7DJy10si4ecHd4pisdls8PX1RVGXkbp+ZmZmLCLX19cVRTJYXgcg7dH7ukaExeNxalGZgUJFi5yfn29dXl5Sa4NRHaO49cUtsF6kVT3bH6HhmhOfGm63G3Z2djS9MBSF4ieZer1OkT5U8qCZPqF6MulyuWBqaorVX15eZt+cMDaCHqF6u1vtK4cRyI+nVCqle0wO2hPpRRZqxJjEd7MoZKFGLNk2NjbIMx7Ni5IOgUAAzs/P4ezsDE5OTtiHWqHgZELwUwuGo1osFqOa44E7o7VajbzxIAvVOhFEThwl5OcorlpmZ2fZyVF4e3uDhYUFisTT88D//f2FbDY78G2Cmdzf34fp6Wk6Mx4U3/X/I9yTabwA/APDhaV6YcjLUQAAAABJRU5ErkJggg==",
+    "assertionScheme": "UAFV1TLV",
+    "authenticationAlgorithm": 1,
+    "publicKeyAlgAndEncoding": 256,
+    "attestationTypes": [
+        15880
+    ],
+    "upv": [
+        {
+            "major": 1,
+            "minor": 1
+        }
+    ]
+}
