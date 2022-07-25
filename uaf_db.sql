@@ -114,6 +114,7 @@ CREATE TABLE IF NOT EXISTS `qr_codes` (
   `status` varchar(10) NOT NULL DEFAULT 'new',
   `transaction` text,
   `oidc_client_id` varchar(50) DEFAULT NULL,
+  `token_used` INT(11) NOT NULL DEFAULT 0,
   PRIMARY KEY (`id`),
   KEY `FK__qrcode_accounts` (`account_id`) USING BTREE,
   KEY `FK_qr_codes_sessions` (`session_id`),
